@@ -1,6 +1,6 @@
 package bot.controller;
 
-public class RobotRunner
+public class NickRobotRunner
 {
 
 	public static void main(String[] args)
