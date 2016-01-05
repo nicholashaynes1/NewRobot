@@ -7,9 +7,6 @@ import bot.model.*;
 
 public class RobotController
 {
-	private String botMessage;
-	private int xPos, yPos;
-	private long waitTime;
 	
 	private EV3Bot nickBot;
 	
